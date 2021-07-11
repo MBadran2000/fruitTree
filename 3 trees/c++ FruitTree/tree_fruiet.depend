@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625907605 source:c:\users\momen\codeblocksprojects\tree_fruiet\main.cpp
+	<iostream>
+	<cstring>
+
+1625907605 source:c:\users\momen\codeblocksprojects\tree_fruit\main.cpp
+	<iostream>
+	<cstring>
+
